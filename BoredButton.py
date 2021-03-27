@@ -35,6 +35,4 @@ tkinter.Label(root, text="random, fun, time wasting website! Enjoy (:", backgrou
 button = tkinter.Button(root, text="BORED?", background="red", font=("Comic Sans MS", 30), width=25, command=bored)
 button.pack(padx=5, pady=20)
 
-tkinter.Label(root, text="Made by AHawky", background="red", font=("Comic Sans MS", 11)).pack(side=BOTTOM, pady=3)
-
 root.mainloop()
